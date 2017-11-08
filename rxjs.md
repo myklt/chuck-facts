@@ -596,7 +596,7 @@ If this tutorial helped you, [tweet it forward](https://twitter.com/intent/tweet
 // be using :o)
 
 // Say this is the pattern you use all the time:
-
+```javascript
 const FETCH_USER = 'FETCH_USER';
 const FETCH_USER_FULFILLED = 'FETCH_USER_FULFILLED';
 const FETCH_USER_REJECTED = 'FETCH_USER_REJECTED';
